@@ -2,6 +2,10 @@
 
 Unity 6 + URP + DOTS で 3D Boids を動かすサンプルです。`Entities Graphics` で描画し、`ISystem + Burst` と 3D 空間ハッシュで flocking を更新します。
 
+## Demo
+
+![DOTS Boids demo](Docs/boids-demo.gif)
+
 ## Environment
 
 - Unity `6000.4.1f1`
